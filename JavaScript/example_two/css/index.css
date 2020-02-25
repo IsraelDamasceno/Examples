@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+img{
+    position: relative;
+    margin: auto;
+    padding: 2pt;
+    height: 20%;
+    width: 20%;
+}
+div{
+    padding-top: 1.5pt;
+    padding-bottom: 1.5pt;
+}
+h1{
+    color: #654aaa ;
+    background-color: #ffd121;
+    margin-top: auto;
+    margin-left: 5%;
+    padding: 5%;
+    font-size: auto;
+    font-family: "Comic Sans ms";
+}

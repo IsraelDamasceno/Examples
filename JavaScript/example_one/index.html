@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Finder Your House</title>
+    <link rel="stylesheet" href="./css/index.css" />
+</head>
+
+<body>
+
+    <div id="frame" onclick="ola();"></div>
+    <div id="header">Ready to find a new house?</div>
+    <div id="left">
+        <img src="./img/casa.jpg" alt="house" />
+    </div>
+    <form name="orderform" action="" method="POST">
+        <div class="field">Entre com a renda Anual:
+            <input id="income" type="text" size="12" onblur="validateNumber(this.value)">
+        </div>
+
+        <div class="field">Entre com o número de quartos:
+            <input id="bedrooms" type="text" size="6" onblur="validateNumber(this.value)"></div>
+
+        <div class="field">
+            Entre com o cep:
+            <input id="zip" type="text" size="10" onblur="validateZIPCode(this.value)">
+        </div>
+
+        <input type="button" value="calcula o preco" onclick="calcPrice();">
+        <input type="button" value="Localizar casas" onclick="findhouses(this.form);">
+    </form>
+
+    <script src="Script/index.js"></script>
+</body>
+
+</html>

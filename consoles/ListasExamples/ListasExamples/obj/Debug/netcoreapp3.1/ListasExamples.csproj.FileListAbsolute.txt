@@ -1,0 +1,11 @@
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\bin\Debug\netcoreapp3.1\ListasExamples.exe
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\bin\Debug\netcoreapp3.1\ListasExamples.deps.json
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\bin\Debug\netcoreapp3.1\ListasExamples.runtimeconfig.json
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\bin\Debug\netcoreapp3.1\ListasExamples.runtimeconfig.dev.json
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\bin\Debug\netcoreapp3.1\ListasExamples.dll
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\bin\Debug\netcoreapp3.1\ListasExamples.pdb
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\obj\Debug\netcoreapp3.1\ListasExamples.csprojAssemblyReference.cache
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\obj\Debug\netcoreapp3.1\ListasExamples.AssemblyInfoInputs.cache
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\obj\Debug\netcoreapp3.1\ListasExamples.AssemblyInfo.cs
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\obj\Debug\netcoreapp3.1\ListasExamples.dll
+C:\Users\raelu\Desktop\examples\consoles\ListasExamples\ListasExamples\obj\Debug\netcoreapp3.1\ListasExamples.pdb

@@ -1,0 +1,11 @@
+C:\Users\raelu\desktop\examples\consoles\array\parray\bin\Debug\netcoreapp3.1\Parray.exe
+C:\Users\raelu\desktop\examples\consoles\array\parray\bin\Debug\netcoreapp3.1\Parray.deps.json
+C:\Users\raelu\desktop\examples\consoles\array\parray\bin\Debug\netcoreapp3.1\Parray.runtimeconfig.json
+C:\Users\raelu\desktop\examples\consoles\array\parray\bin\Debug\netcoreapp3.1\Parray.runtimeconfig.dev.json
+C:\Users\raelu\desktop\examples\consoles\array\parray\bin\Debug\netcoreapp3.1\Parray.dll
+C:\Users\raelu\desktop\examples\consoles\array\parray\bin\Debug\netcoreapp3.1\Parray.pdb
+C:\Users\raelu\desktop\examples\consoles\array\parray\obj\Debug\netcoreapp3.1\Parray.csprojAssemblyReference.cache
+C:\Users\raelu\desktop\examples\consoles\array\parray\obj\Debug\netcoreapp3.1\Parray.AssemblyInfoInputs.cache
+C:\Users\raelu\desktop\examples\consoles\array\parray\obj\Debug\netcoreapp3.1\Parray.AssemblyInfo.cs
+C:\Users\raelu\desktop\examples\consoles\array\parray\obj\Debug\netcoreapp3.1\Parray.dll
+C:\Users\raelu\desktop\examples\consoles\array\parray\obj\Debug\netcoreapp3.1\Parray.pdb
